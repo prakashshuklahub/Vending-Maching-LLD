@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6b03969-b512-4d0a-b363-2b383cc62d58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/VendingMachineApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/CashDispenseState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/InMaintainanceState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/InsertCoinState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/MachineNotWorkingState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/ProductDispenseState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/SelectProductState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/prakashshuklahub/Vending-Maching-LLD",
+    "accountId": "5cfcc437-ea62-479c-8471-0cf91f8c6d13"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -95,13 +84,17 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/app/VendingMachineApplication.java</url>
-          <line>26</line>
+          <line>22</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/app/VendingMachineApplication.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="3" />
+          <line>7</line>
+          <properties class="app.VendingMachineApplication" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
